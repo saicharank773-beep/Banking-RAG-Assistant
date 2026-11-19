@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables
+.env
+
+# Vector database
+chroma_db/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+.agents/
+documents/

@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-aws
+langchain-pinecone
+pinecone
+python-dotenv
+pypdf
+boto3
